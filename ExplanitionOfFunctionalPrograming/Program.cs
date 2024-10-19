@@ -1,4 +1,6 @@
-﻿namespace ExplanitionOfFunctionalPrograming
+﻿using ExplanitionOfFunctionalPrograming.Helper;
+
+namespace ExplanitionOfFunctionalPrograming
 {
     internal class Program
     {
@@ -6,6 +8,8 @@
         {
             
 
+           
         }
+
     }
 }
